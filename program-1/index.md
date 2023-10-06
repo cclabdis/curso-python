@@ -37,3 +37,10 @@ Output => print
 
 # Aula 2 - Tipos de operadores #
 
+Operadores aritméticos           => +, -, *, /, **, //, %
+OPeradores de compração          => >, <, <=, =>, ==, ===,
+Operadores de atribuição         => +=, -=, //=, **=
+Operadores lógicos (return bool) => and, or, not
+Operados de identidade           =>
+Operadores de associação         =>
+
